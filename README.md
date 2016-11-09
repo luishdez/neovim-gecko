@@ -6,6 +6,8 @@ A custom settings for neovim
 
 git clone git@github.com:luishdez/neovim-gecko.git ~/.config/nvim
 
+Open nvim and call `:PlugInstall`
+
 ## Features & Plugins
 
 * Markdown preview support
